@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lowntagn.github.io/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/app/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/assets/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/css/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/includes/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/item/sitemap.html.gz
+Sitemap: https://lowntagn.github.io/src/sitemap.html.gz
